@@ -1,11 +1,11 @@
-This project relates to recognize text as Ham\Spam. For this task were used different classification algorithms, such as Logistic Regression, Random Forest, SGD and Naive Bayes. 
-There was also analyzed the accuracy of these algorithms in this task.
+This project focuses on recognizing text messages as either Ham or Spam. Various classification algorithms, such as Logistic Regression, Random Forest, SGD and Naive Bayes, have been employed to tackle this problem, and their performance has been analyzed to determine the most effective approach. Also t-SNE method was applied to visualize the performance of these algorithms. 
 
-                                            | Algorithm             | Accuracy | Standard_Scalar() |
-                                            |         :---          | :---: |    ---:     |
-                                            | Logistic Regression   | 97%   |      +      |
-                                            | Random Forest         | 97%   |      +      |
-                                            | SGD                   | 97%   |      +      |
-                                            | MultinomialNB         | 96%   |      -      |
-                                            | BernoulliNB           | 88%   |      -      |
-                                            | ComplementNB          | 96%   |      -      |
+
+| Algorithm             | Accuracy | Standard_Scalar() |
+|         :---          | :---: |    ---:     |
+| Logistic Regression   | 97%   |      +      |
+| Random Forest         | 97%   |      +      |
+| SGD                   | 97%   |      +      |
+| MultinomialNB         | 96%   |      -      |
+| BernoulliNB           | 88%   |      -      |
+| ComplementNB          | 96%   |      -      |
