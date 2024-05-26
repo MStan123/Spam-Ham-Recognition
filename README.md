@@ -9,3 +9,5 @@ This project focuses on recognizing text messages as either Ham or Spam. Various
 | MultinomialNB         | 96%   |      -      |
 | BernoulliNB           | 88%   |      -      |
 | ComplementNB          | 96%   |      -      |
+
+The dataset was taken from [Kaggle](https://www.kaggle.com/datasets/meruvulikith/190k-spam-ham-email-dataset-for-classification/data).
