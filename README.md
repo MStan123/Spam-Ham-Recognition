@@ -2,13 +2,13 @@ This project focuses on recognizing text messages as either Ham or Spam. Various
 
 
 | Algorithm             | Accuracy | Standard_Scalar() | Training Time | Dataset Size |
-|         :---          | :---: |    :---:    | :---:  | :---: | ---:|
-| SVM                   | 95%   |      +      | 67 min | 50K |
-| Logistic Regression   | 97%   |      +      | 86.42 sec.| 193K 
-| Random Forest         | 97%   |      +      | 36 min. 16 sec. | 193K |
-| SGD                   | 97%   |      +      | 5.13 sec. | 193K |
-| MultinomialNB         | 96%   |      -      | 1.63 sec. | 193K |
-| BernoulliNB           | 88%   |      -      | 1.73 sec. | 193K |
-| ComplementNB          | 96%   |      -      | 2.02 sec. | 193K |
+|         :---          | :---:    |    :---:          | :---:          | :---:       |
+| SVM                   | 95%      |      +            | 67 min         | 50K         |
+| Logistic Regression   | 97%      |      +            | 86.42 sec.     | 193K        |
+| Random Forest         | 97%      |      +            | 36 min. 16 sec.| 193K        |
+| SGD                   | 97%      |      +            | 5.13 sec.      | 193K        |
+| MultinomialNB         | 96%      |      -            | 1.63 sec.      | 193K        |
+| BernoulliNB           | 88%      |      -            | 1.73 sec.      | 193K        |
+| ComplementNB          | 96%      |      -            | 2.02 sec.      | 193K        |
 
 The dataset was taken from [Kaggle](https://www.kaggle.com/datasets/meruvulikith/190k-spam-ham-email-dataset-for-classification/data).
