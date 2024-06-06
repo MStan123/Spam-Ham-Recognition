@@ -24,6 +24,7 @@ Support Vector Machine (SVM) is a supervised machine learning algorithm used for
 5. gene expression analysis
 6. face detection
 7. anomaly detection
+
 SVMs are adaptable and efficient in a variety of applications because they can manage high-dimensional data and nonlinear relationships. The main objective of the SVM
 algorithm is to find the optimal hyperplane in an N-dimensional space that can separate the data points in different classes in the feature space.
 
@@ -35,4 +36,4 @@ algorithm is to find the optimal hyperplane in an N-dimensional space that can s
 1. Linear: $w^{T}x + b$
 2. Polynomial: $(\gamma w^{T}x + b)^{N}$
 3. Gaussian RBF: $exp(-\gamma||x_i - x_j||^n)$
-4. Sigmoid:$tanh(\alpha x_i^Tx_j + b)$
+4. Sigmoid: $tanh(\alpha x_i^Tx_j + b)$
