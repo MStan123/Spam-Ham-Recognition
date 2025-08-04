@@ -14,7 +14,7 @@ This project focuses on recognizing text messages as either Ham or Spam. Various
 
 The dataset was taken from [Kaggle](https://www.kaggle.com/datasets/meruvulikith/190k-spam-ham-email-dataset-for-classification/data).
 
-# Algorшthms Overview
+# Algorithms Overview
 ## SVM
 Support Vector Machine (SVM) is a supervised machine learning algorithm used for both classification and regression. SVMs can be used for a variety of tasks, such as 
 1. text classification
